@@ -5,6 +5,7 @@ Alan Wainscott
 Tristian Barkley
 ---
 #Project overview
+
 Dave's Scientific Adventure was created as an ICP project about the periodic table.
 ---
 **Credits**
