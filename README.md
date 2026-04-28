@@ -10,5 +10,7 @@ Dave's Scientific Adventure was created as an ICP project about the periodic tab
 **Credits:**
 
 Idea: Trisitan Barkley
+
 Image of Dave and classroom: ChatGPT
+
 Code: Alan Wainscott
